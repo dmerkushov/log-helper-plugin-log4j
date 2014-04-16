@@ -61,8 +61,8 @@ import org.apache.log4j.spi.LoggingEvent;
  * Unfortunately, this class cannot extend {@link org.apache.log4j.DailyRollingFileAppender} itself due to member visibility issues. Still, it has the same API, with some additions.
  * 
  * @author Dmitriy Merkushov
- * @see ru.dmerkushov.loghelper.log4j.extend.DailyRollingFileAppenderExt#getKeepOldLogsSeconds() 
- * @see ru.dmerkushov.loghelper.log4j.extend.DailyRollingFileAppenderExt#setKeepOldLogsSeconds(long) 
+ * @see ru.dmerkushov.loghelper.plugin.log4j.extend.DailyRollingFileAppenderExt#getKeepOldLogsSeconds() 
+ * @see ru.dmerkushov.loghelper.plugin.log4j.extend.DailyRollingFileAppenderExt#setKeepOldLogsSeconds(long) 
  */
 public class DailyRollingFileAppenderExt extends FileAppender {
 
