@@ -4,7 +4,7 @@
 	
     <groupId>ru.dmerkushov</groupId>
     <artifactId>log-helper-plugin-log4j</artifactId>
-    <version>2.0.2-SNAPSHOT</version>
+    <version>2.0.2</version>
     <packaging>jar</packaging>
 	
 	<name>log-helper-plugin-log4j</name>
@@ -35,7 +35,7 @@
 		<connection>scm:git:git@github.com:dmerkushov/log-helper-plugin-log4j.git</connection>
 		<developerConnection>scm:git:git@github.com:dmerkushov/log-helper-plugin-log4j.git</developerConnection>
 		<url>git@github.com:dmerkushov/log-helper-plugin-log4j.git</url>
-		<tag>HEAD</tag>
+		<tag>log-helper-plugin-log4j-2.0.2</tag>
 	</scm>
   
 	<developers>
